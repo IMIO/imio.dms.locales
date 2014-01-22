@@ -1,0 +1,7 @@
+<html xmlns:i18n="http://xml.zope.org/namespaces/i18n"
+      lang="en"
+      i18n:domain="plone">
+<body>
+<span i18n:translate="bla"></span>
+</body>
+</html>
